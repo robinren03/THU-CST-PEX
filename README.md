@@ -4,6 +4,8 @@ The corse-selection tool for THU Physic Experiment
 
 This is an easy tool written by Python.
 
+~~请友善选课，不要使用本工具。~~
+
 > 编号对应表：
 
 >  2 准稳态法测导热系数和比热 
@@ -50,7 +52,7 @@ IF YOU HAVE CHOSEN A COURSE SUCCESSFULLY LAST WEEK, PLEASE ADD THE RELEVANT INFO
 
 使用说明：
 
-To use this tool, you shall first lauch into the website and get your cookies. You are recommended to accomplish the step by Chrome.
+To use this tool, you shall first launch into the website and get your cookies. You are recommended to accomplish the step by Chrome.
 Note: The cookies may be CHANGED in just a few hours so check it before your course selection.
 
 Then change the blank in the qiangke.py with your cookie and your preferred lessons.
