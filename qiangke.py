@@ -31,7 +31,7 @@ while(1):
     'Cookie': 'PHPSESSID=/*Your cookie here */',
   }
   try:
-    response = s.request("POST",url, headers=headers,data=payload,timeout=2)
+    response = s.request("POST",url, headers=headers,data=payload,timeout=1)
   except Exception:
     restart_program()
     break
