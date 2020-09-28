@@ -9,6 +9,7 @@ def restart_program():
   os.execl(python, python, * sys.argv)
 
 cnt = 0
+print("New Program")
 while(1):
 
   s = requests.Session()
@@ -31,7 +32,7 @@ while(1):
   }
   try:
     response = s.request("POST",url, headers=headers,data=payload,timeout=2)
-  except ConnectionError:
+  except Exception:
     restart_program()
     break
   print("Success")
