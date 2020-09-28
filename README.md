@@ -5,27 +5,47 @@ The corse-selection tool for THU Physic Experiment
 This is an easy tool written by Python.
 
 > 编号对应表：
+
 >  2 准稳态法测导热系数和比热 
+
 >  3 弹簧振子实验 
+
 >  5 透镜焦距的测定 
+
 >  6 三线摆和扭摆
+
 >  9 示波器的原理和使用
+
 >  10 阻尼振动与受迫振动
+
 >  12 空气热容比的测量
+
 >  13 弹性模量的测量、动力学法测杨氏模量
+
 >  14 用传感器测空气相对压力系数
+
 >  15 直流电桥测电阻
+
 >  16 分光计的调节和色散曲线的测定
+
 >  17 电学元件伏安特性的测量
+
 >  18 液体粘度的测量
+
 >  19 灵敏电流计
+
 >  20 弦振动实验
 
 重要：
+
 本程序的SUCCESS输出**不**代表抢课成功，仅代表成功向服务器发送了选课请求！
+
 如果你上周（指还没有切换时的那一周）已经抢到课，请将该课程信息加入payload中，否则该选课会失效！
+
 VITAL
+
 THE OUTPUT "SUCCESS" WHEN RUNNING python qiangke.py DID **NOT** SHOW THAT YOU HAVE GOT THE COURSE BUT ONLY SHOWS THAT YOU HAVE SUCCESSFULLY SENT A MESSAGE TO THE HOST.
+
 IF YOU HAVE CHOSEN A COURSE SUCCESSFULLY LAST WEEK, PLEASE ADD THE RELEVANT INFORMATION TO PAYLOAD, OTHERWISE, THE COURSE SELECTION WILL FAIL!
 
 使用说明：
