@@ -26,6 +26,7 @@ Note: The cookies may be updated in just a few hours so check it before the time
 
 Then change the blank in the qiangke.py with your cookie and your preferred lessons.
 
+Do not forget to kill the python mission by task manager to stop the process.
 Eg:
 周一下午 灵敏电流计 19=12
 周三晚上 液体粘度的测量 18=33
