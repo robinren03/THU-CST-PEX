@@ -1,6 +1,6 @@
 # THU-CST-PEX
 
-The corse-selection tool for THU Physic Experiment
+The course-selection tool for THU Physic Experiment
 
 This is an easy tool written by Python.
 
